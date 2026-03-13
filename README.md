@@ -12,11 +12,9 @@ This project focuses on modelling turbine blade geometry optimized for efficient
 
 ## Preview
 
-![Blade Render](blade_render.png)
-
 ![Blade Side](blade_side.png)
 
 ![Blade Cross Section](blade_cross_section.png)
 
 ## Files
-- `blade_model.f3d` – Fusion 360 source file
+- `HYDRO TURBINE BLADE 01.f3d` – Fusion 360 source file
